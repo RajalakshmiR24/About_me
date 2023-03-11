@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![](https://png.pngtree.com/background/20210709/original/pngtree-mobile-phone-qr-code-alipay-the-internet-picture-image_931935.jpg)
 <h1 align="center">Hi 👋, I'm Rajalakshmi R</h1>
 <h3 align="center">Passionate about web development and my goal is to secure a good position in the field of IT in a reputed organization which leads to my professional development and contribute towards the prosperity of the organization.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/841/197/png-clipart-yellow-haired-female-anime-character-anime-teacher-textbook-teacher-hand-manga-thumbnail.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalakshmir24&label=Profile%20views&color=0e75b6&style=flat" alt="rajalakshmir24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajalakshmir" target="blank"><img src="https://img.shields.io/twitter/follow/rajalakshmir?logo=twitter&style=for-the-badge" alt="rajalakshmir" /></a> </p>
