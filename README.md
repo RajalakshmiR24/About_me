@@ -1,4 +1,4 @@
-![](https://png.pngtree.com/background/20210709/original/pngtree-mobile-phone-qr-code-alipay-the-internet-picture-image_931935.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajalakshmi R</h1>
 <h3 align="center">Passionate about web development and my goal is to secure a good position in the field of IT in a reputed organization which leads to my professional development and contribute towards the prosperity of the organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/841/197/png-clipart-yellow-haired-female-anime-character-anime-teacher-textbook-teacher-hand-manga-thumbnail.png">
@@ -11,6 +11,8 @@
 - 📫 How to reach me **rajalakshmi245806@gmail.com**
 
 - ⚡ Fun fact **I once spent an entire day debugging a program only to realize that the issue was caused by a missing semicolon. Lesson learned: always double-check your syntax! 😅**
+
+- ⚡ My favorite programming meme is the "Hello World" one where the developer misspells "World" as "Wrold". It reminds me to always double-check my code for silly mistakes! 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
